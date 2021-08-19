@@ -1,6 +1,8 @@
 ---
 title: "캐글 Advanced 머신러닝 실전 박치기 연습 in R"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 # 캐글 Advanced 머신러닝 실전 박치기 연습
